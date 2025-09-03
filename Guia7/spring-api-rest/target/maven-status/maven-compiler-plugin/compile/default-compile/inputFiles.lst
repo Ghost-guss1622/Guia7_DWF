@@ -1,0 +1,10 @@
+C:\Users\usuario\Downloads\Guia7\spring-api-rest\src\main\java\sv\edu\udb\controller\PostController.java
+C:\Users\usuario\Downloads\Guia7\spring-api-rest\src\main\java\sv\edu\udb\domain\Post.java
+C:\Users\usuario\Downloads\Guia7\spring-api-rest\src\main\java\sv\edu\udb\domain\PostComment.java
+C:\Users\usuario\Downloads\Guia7\spring-api-rest\src\main\java\sv\edu\udb\Mapper\PostMapper.java
+C:\Users\usuario\Downloads\Guia7\spring-api-rest\src\main\java\sv\edu\udb\repository\PostRepository.java
+C:\Users\usuario\Downloads\Guia7\spring-api-rest\src\main\java\sv\edu\udb\request\PostRequest.java
+C:\Users\usuario\Downloads\Guia7\spring-api-rest\src\main\java\sv\edu\udb\response\PostResponse.java
+C:\Users\usuario\Downloads\Guia7\spring-api-rest\src\main\java\sv\edu\udb\service\implementation\PostServiceImpl.java
+C:\Users\usuario\Downloads\Guia7\spring-api-rest\src\main\java\sv\edu\udb\service\PostService.java
+C:\Users\usuario\Downloads\Guia7\spring-api-rest\src\main\java\sv\edu\udb\SpringApiRestApplication.java
